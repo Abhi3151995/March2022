@@ -17,7 +17,7 @@ public class Hookable {
 	
 
 	{
-		HTMLReportGenerator.TestSuiteStart("E:\\Report\\flipkart.html","Flipkart");
+		HTMLReportGenerator.TestSuiteStart("E:\\Report\\bank.html","primusbank");
 		HTMLReportGenerator.TestCaseStart(scenario.getName(), scenario.getStatus());
 		System.out.println("........................................Scenario Start...............");
 		
